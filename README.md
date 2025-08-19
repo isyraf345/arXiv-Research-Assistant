@@ -7,5 +7,5 @@ Tech stack used:
 - openAI for LLM
 
 How to use:
-- Create your own .env file that contains information such as your own OpenAI pass key.
+- Create your own .env file that contains information OpenAI pass key and database configuration
 - python app.py
