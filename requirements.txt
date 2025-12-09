@@ -1,12 +1,12 @@
 # Core RAG & LLM
-langchain==0.1.0
-langchain-openai==0.0.5
-langchain-community==0.0.15
-openai==1.10.0
+langchain==0.2.0
+langchain-openai==0.1.14
+langchain-community==0.2.0
+openai==1.40.0
 
 # Vector Database & Embeddings
 chromadb==0.4.22
-sentence-transformers==2.2.2
+sentence-transformers==2.7.0
 huggingface-hub
 
 # Database
@@ -24,11 +24,11 @@ gradio==4.15.0
 
 # Utilities
 python-dotenv==1.0.0
-pydantic==2.5.3
-pydantic-settings==2.1.0
+pydantic==2.7.4
 pandas==2.1.4
 numpy==1.26.3
 requests==2.31.0
+httpx==0.24.1
 
 # Development
 pytest==7.4.4
